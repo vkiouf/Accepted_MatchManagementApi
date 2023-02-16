@@ -1,9 +1,11 @@
 # Accepted_MatchManagementApi
 
-Vasileios Kiouftis
-Senior Software Engineer
+Accepted Technical Assigment  
 
-Project: MatchManagementApi
-Executable: bin\Release\net7.0\MatchManagementApi.exe
-Host: http://localhost:5000
-Swagger: http://localhost:5000/swagger/index.html
+Vasileios Kiouftis  
+Senior Software Engineer  
+
+Project: MatchManagementApi  
+Executable: bin\Release\net7.0\MatchManagementApi.exe  
+Host: http://localhost:5000  
+Swagger: http://localhost:5000/swagger/index.html  
